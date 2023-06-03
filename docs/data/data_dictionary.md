@@ -15,4 +15,4 @@
 - **Descripción**: breve descripción de la variable.
 - **Tipo de dato**: tipo de dato que contiene la variable.
 - **Rango/Valores posibles**: rango o valores que puede tomar la variable.
-- **Fuente de datos**: fuente de los datos de la variable.
+- **Fuente de datos**: fuente de los datos de la variable. 

@@ -7,7 +7,7 @@
 ## Especificación de los scripts para la carga de datos
 
 - [ ] Los Script utilizados se encuentran en este repositorio en la parte de Scripts data_acquisition [WebScraping](/../../scripts/data_acquisition/WebScraping.ipynb). 
-
+ 
 ## Referencias a rutas o bases de datos origen y destino
 
 - [ ] El origen de los datos son https://www.imdb.com/search/title/?title_type=feature&countries=us&languages=en&count=250&start=1&ref_=adv_nxt. desde la pagina inicial hasta la septima pagina 
