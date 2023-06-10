@@ -43,7 +43,7 @@ La variable objetivo es simplificar los textos y encontrar una convergencia de t
 |	scifi	        |217	|	horror	               |218	|
 |	romance	        |196	|	scifi	               |217	|
 
-Para mas informacion el notebook de exploracion y limpieza de los datos ingresar [aqui](/../../scripts/preprocessing/Preprocesamiento_y_an%C3%A1lisis_exploratorio.ipynb)
+Para mas informacion el notebook de exploracion y limpieza de los datos ingresar [aqui](../../scripts/preprocessing/Preprocesamiento_y_analisis_exploratorio.ipynb)
 <br>
 
 ## Ranking de variables
